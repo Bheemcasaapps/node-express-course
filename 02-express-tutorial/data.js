@@ -7,6 +7,7 @@ const products = [
     price: 39.95,
     desc: `I'm baby direct trade farm-to-table hell of, YOLO readymade raw denim venmo whatever organic gluten-free kitsch schlitz irony af flexitarian.`,
   },
+  
   {
     id: 2,
     name: 'entertainment center',
